@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Documents\alexaShmalexa\bin\Debug\netcoreapp3.1\alexaShmalexa.exe
+C:\Users\USUARIO\Documents\alexaShmalexa\bin\Debug\netcoreapp3.1\alexaShmalexa.deps.json
+C:\Users\USUARIO\Documents\alexaShmalexa\bin\Debug\netcoreapp3.1\alexaShmalexa.runtimeconfig.json
+C:\Users\USUARIO\Documents\alexaShmalexa\bin\Debug\netcoreapp3.1\alexaShmalexa.runtimeconfig.dev.json
+C:\Users\USUARIO\Documents\alexaShmalexa\bin\Debug\netcoreapp3.1\alexaShmalexa.dll
+C:\Users\USUARIO\Documents\alexaShmalexa\bin\Debug\netcoreapp3.1\alexaShmalexa.pdb
+C:\Users\USUARIO\Documents\alexaShmalexa\obj\Debug\netcoreapp3.1\alexaShmalexa.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\alexaShmalexa\obj\Debug\netcoreapp3.1\alexaShmalexa.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\alexaShmalexa\obj\Debug\netcoreapp3.1\alexaShmalexa.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\alexaShmalexa\obj\Debug\netcoreapp3.1\alexaShmalexa.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\alexaShmalexa\obj\Debug\netcoreapp3.1\alexaShmalexa.dll
+C:\Users\USUARIO\Documents\alexaShmalexa\obj\Debug\netcoreapp3.1\alexaShmalexa.pdb
+C:\Users\USUARIO\Documents\alexaShmalexa\obj\Debug\netcoreapp3.1\alexaShmalexa.genruntimeconfig.cache

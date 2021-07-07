@@ -1,0 +1,36 @@
+NUMBER: 1 CONDITION: Dirichlet_x
+	
+CONDTYPE: over surfaces ///no tocar, puntos, superficies o volumenes
+CONDMESHTYPE: over nodes ///no tocar
+QUESTION: w_x
+VALUE: 0
+
+END CONDITION
+
+NUMBER: 2 CONDITION: Dirichlet_y
+	
+CONDTYPE: over surfaces ///no tocar, puntos, superficies o volumenes
+CONDMESHTYPE: over nodes ///no tocar
+QUESTION: w_x
+VALUE: 0
+
+END CONDITION
+
+NUMBER: 3 CONDITION: Dirichlet_z
+	
+CONDTYPE: over surfaces ///no tocar, puntos, superficies o volumenes
+CONDMESHTYPE: over nodes ///no tocar
+QUESTION: w_x
+VALUE: 0
+
+END CONDITION
+
+NUMBER: 4 CONDITION: Neumann	
+
+CONDTYPE: over surfaces /// puntos, superficies o volumenes
+CONDMESHTYPE: over nodes ///no tocar
+QUESTION: dwdn
+VALUE: 0
+
+END CONDITION
+
